@@ -266,7 +266,7 @@
    - JavaScript in Microservices
      - Microservice Architecture and Communication
    - Serverless Architectures
-   - Introduction to Serverless Computing
+     - Introduction to Serverless Computing
      - Building and Deploying Serverless Functions
    - Emerging JavaScript Technologies
      - WebAssembly and Its Use Cases
